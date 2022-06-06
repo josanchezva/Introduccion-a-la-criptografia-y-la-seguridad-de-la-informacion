@@ -1,0 +1,6 @@
+Realizado por: Johan Sebastian Sanchez Vargas
+
+Instrucciones para corren en Google Colab
+
+1. cargar el archivo AES.ipynb en un entorno de ejecución 
+2. Cargar la imagen en la zona de archivos del entorno
